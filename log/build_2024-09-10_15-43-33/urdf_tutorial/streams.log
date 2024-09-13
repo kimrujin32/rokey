@@ -1,0 +1,17 @@
+[0.448s] Invoking command in '/root/ws_robot/build/urdf_tutorial': PYTHONPATH=/root/ws_robot/build/urdf_tutorial/prefix_override:/root/ws_robot/install/urdf_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/ws_robot/build/urdf_tutorial/build --no-deps symlink_data
+[0.637s] running develop
+[0.753s] running egg_info
+[0.753s] writing urdf_tutorial.egg-info/PKG-INFO
+[0.754s] writing dependency_links to urdf_tutorial.egg-info/dependency_links.txt
+[0.754s] writing entry points to urdf_tutorial.egg-info/entry_points.txt
+[0.754s] writing requirements to urdf_tutorial.egg-info/requires.txt
+[0.754s] writing top-level names to urdf_tutorial.egg-info/top_level.txt
+[0.755s] reading manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[0.755s] writing manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[0.756s] running build_ext
+[0.757s] Creating /root/ws_robot/install/urdf_tutorial/lib/python3.10/site-packages/urdf-tutorial.egg-link (link to .)
+[0.757s] 
+[0.757s] Installed /root/ws_robot/build/urdf_tutorial
+[0.757s] running symlink_data
+[0.757s] symbolically linking /root/ws_robot/build/urdf_tutorial/urdf/gazebo.xacro -> /root/ws_robot/install/urdf_tutorial/share/urdf_tutorial/urdf
+[0.777s] Invoked command in '/root/ws_robot/build/urdf_tutorial' returned '0': PYTHONPATH=/root/ws_robot/build/urdf_tutorial/prefix_override:/root/ws_robot/install/urdf_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/ws_robot/build/urdf_tutorial/build --no-deps symlink_data

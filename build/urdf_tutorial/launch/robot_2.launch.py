@@ -1,0 +1,1 @@
+/root/ws_robot/src/urdf_tutorial/launch/robot_2.launch.py

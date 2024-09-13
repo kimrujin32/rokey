@@ -1,0 +1,22 @@
+[0.428s] Invoking command in '/root/ws_robot/build/urdf_tutorial': PYTHONPATH=/root/ws_robot/build/urdf_tutorial/prefix_override:/root/ws_robot/install/urdf_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/ws_robot/build/urdf_tutorial/build --no-deps symlink_data
+[0.612s] running develop
+[0.729s] running egg_info
+[0.729s] writing urdf_tutorial.egg-info/PKG-INFO
+[0.729s] writing dependency_links to urdf_tutorial.egg-info/dependency_links.txt
+[0.729s] writing entry points to urdf_tutorial.egg-info/entry_points.txt
+[0.729s] writing requirements to urdf_tutorial.egg-info/requires.txt
+[0.729s] writing top-level names to urdf_tutorial.egg-info/top_level.txt
+[0.730s] reading manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[0.731s] writing manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[0.732s] running build_ext
+[0.732s] Creating /root/ws_robot/install/urdf_tutorial/lib/python3.10/site-packages/urdf-tutorial.egg-link (link to .)
+[0.733s] 
+[0.733s] Installed /root/ws_robot/build/urdf_tutorial
+[0.733s] running symlink_data
+[0.733s] symbolically linking /root/ws_robot/build/urdf_tutorial/launch/robot_3.launch.py -> /root/ws_robot/install/urdf_tutorial/share/urdf_tutorial/launch
+[0.733s] symbolically linking /root/ws_robot/build/urdf_tutorial/urdf/robot_2.third.xacro -> /root/ws_robot/install/urdf_tutorial/share/urdf_tutorial/urdf
+[0.733s] symbolically linking /root/ws_robot/build/urdf_tutorial/urdf/robot_2.first.xacro -> /root/ws_robot/install/urdf_tutorial/share/urdf_tutorial/urdf
+[0.734s] symbolically linking /root/ws_robot/build/urdf_tutorial/urdf/robot_3.xacro -> /root/ws_robot/install/urdf_tutorial/share/urdf_tutorial/urdf
+[0.734s] symbolically linking /root/ws_robot/build/urdf_tutorial/urdf/robot_2.second.xacro -> /root/ws_robot/install/urdf_tutorial/share/urdf_tutorial/urdf
+[0.734s] error: can't copy '/root/ws_robot/build/urdf_tutorial/urdf/robot_2.xacro': doesn't exist or not a regular file
+[0.754s] Invoked command in '/root/ws_robot/build/urdf_tutorial' returned '1': PYTHONPATH=/root/ws_robot/build/urdf_tutorial/prefix_override:/root/ws_robot/install/urdf_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /root/ws_robot/build/urdf_tutorial/build --no-deps symlink_data
